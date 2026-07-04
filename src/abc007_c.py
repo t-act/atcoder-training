@@ -1,4 +1,6 @@
 # https://atcoder.jp/contests/abc007/tasks/abc007_3
+# BFS
+
 from collections import deque
 
 r, c = map(int, input().split())

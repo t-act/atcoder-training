@@ -1,4 +1,5 @@
 # https://atcoder.jp/contests/abc122/tasks/abc122_c
+# 累積和
 
 n, q = map(int, input().split())
 s = input()

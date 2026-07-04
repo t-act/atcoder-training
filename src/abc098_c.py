@@ -1,4 +1,5 @@
 # https://atcoder.jp/contests/abc098/tasks/arc098_a
+# 累積和
 
 # input
 n = int(input())

@@ -1,4 +1,5 @@
 # http://atcoder.jp/contests/abc032/tasks/abc032_c
+# 尺取法
 
 n, k = map(int, input().split())
 s = []

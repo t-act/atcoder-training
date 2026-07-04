@@ -1,4 +1,5 @@
 # https://atcoder.jp/contests/abc088/tasks/abc088_d
+# BFS
 
 from collections import deque
 

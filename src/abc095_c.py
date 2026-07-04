@@ -1,4 +1,5 @@
 # https://atcoder.jp/contests/abc095/tasks/arc096_a
+# 全探索
 
 a, b, c, x, y = map(int, input().split())
 
